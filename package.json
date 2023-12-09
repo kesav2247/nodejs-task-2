@@ -1,0 +1,26 @@
+{
+  "name": "node.js-task-2",
+  "version": "1.0.0",
+  "description": "node application using nodejs + express js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kesav2247/nodejs-task-2.git"
+  },
+  "author": "kesavan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kesav2247/nodejs-task-2/issues"
+  },
+  "homepage": "https://github.com/kesav2247/nodejs-task-2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
